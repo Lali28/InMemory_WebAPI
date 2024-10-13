@@ -190,11 +190,7 @@ To run this project locally, ensure you have the following installed:
    - **Method**: `DELETE`
    - **Endpoint**: `/api/projects/{id}`
 
-## Running Tests
-There are no unit tests provided in this version of the project. However, you can use the Swagger UI or tools like **Postman** to manually test the API functionality by sending HTTP requests.
 
-## Contributions
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your enhancements. Contributions that improve functionality, add more detailed documentation, or include database integration (e.g., SQL Server) are highly encouraged!
 
 ## Future Enhancements
 Some possible future improvements to this project include:
@@ -205,7 +201,4 @@ Some possible future improvements to this project include:
 
 ## License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project as long as proper credit is given.
-
 ---
-
-### That's the full **README** for your Web API project! You can customize it further if necessary. Let me know if you'd like help with anything else!
