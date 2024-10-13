@@ -1,6 +1,3 @@
-Here’s a detailed **README** template that will provide a thorough explanation of your Web API project with in-memory storage. This will serve as a guide for potential employers and anyone else who reviews your GitHub project.
-
----
 
 # In-Memory Project Management API
 
