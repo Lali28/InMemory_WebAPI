@@ -52,7 +52,7 @@ The **Project** model contains the following fields:
 ## Future Enhancements
 Some possible future improvements to this project include:
 - Adding authentication and authorization for securing the API.
-- Integrating a physical database like SQL Server, PostgreSQL, or MySQL.
+- Integrating a physical database like SQL Server, or MySQL.
 - Implementing logging and error handling.
 - Creating unit and integration tests for the API.
 
