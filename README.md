@@ -48,3 +48,13 @@ The **Project** model contains the following fields:
 - **Client** (`string`): The client associated with the project.
 - **CostSavingsPerMonth** (`decimal`): The estimated cost savings of the project per month.
 - **TimeSavingsPerMonth** (`decimal`): The estimated time savings of the project per month.
+
+## Future Enhancements
+Some possible future improvements to this project include:
+- Adding authentication and authorization for securing the API.
+- Integrating a physical database like SQL Server, PostgreSQL, or MySQL.
+- Implementing logging and error handling.
+- Creating unit and integration tests for the API.
+
+## License
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project as long as proper credit is given.
