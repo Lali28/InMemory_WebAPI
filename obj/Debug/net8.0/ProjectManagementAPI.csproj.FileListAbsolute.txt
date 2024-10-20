@@ -39,3 +39,4 @@ C:\Users\hp bs\Desktop\ProjectManagementAPI\obj\Debug\net8.0\refint\ProjectManag
 C:\Users\hp bs\Desktop\ProjectManagementAPI\obj\Debug\net8.0\ProjectManagementAPI.pdb
 C:\Users\hp bs\Desktop\ProjectManagementAPI\obj\Debug\net8.0\ProjectManagementAPI.genruntimeconfig.cache
 C:\Users\hp bs\Desktop\ProjectManagementAPI\obj\Debug\net8.0\ref\ProjectManagementAPI.dll
+C:\Users\hp bs\Desktop\ProjectManagementAPI\obj\Debug\net8.0\ProjectManagementAPI.sourcelink.json
